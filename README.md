@@ -19,10 +19,10 @@ This project is still in progress and will be updated with additional features a
 - Error handling for invalid inputs
 
 ## Screenshot
-![C-Calculator Screenshot](path_to_your_image.png)
+![C-Calculator Screenshot](https://github.com/GustavoTirado/C-Calculator/blob/main/Screenshot%202024-09-20%20115536.png?raw=true)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/C-Calculator.git`
+1. Clone the repository
 2. Open the project in Visual Studio.
 3. Build and run the application.
 
